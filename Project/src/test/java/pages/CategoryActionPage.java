@@ -22,6 +22,10 @@ public class CategoryActionPage {
             LogHelper.info("Clicked and verified"+ Main.driver.findElement(ProductsPageLocators.wrench).getText());
         } catch (Exception e) {
             e.printStackTrace();
+
+
+
+            
         }
     }
     /**
@@ -49,8 +53,4 @@ public class CategoryActionPage {
         clickCategory();
     }
  
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad
