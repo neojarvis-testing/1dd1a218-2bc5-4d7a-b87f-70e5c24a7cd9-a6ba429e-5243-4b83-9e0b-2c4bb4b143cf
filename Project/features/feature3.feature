@@ -14,4 +14,8 @@ Feature: Homedepot Automation Functionality
     Given User click on DIY present on the navigation bar
     When  User click on Freeworkshop and verify Free Workshops label
     And   User click on KidworkShop and verify Kids Project
+<<<<<<< HEAD
     Then  User clicks on Register and verify the label Parent/Guardian First name
+=======
+    Then  User clicks on Register and verify the label Parent/Guardian First name
+>>>>>>> 4ef1a98cbb1ee767528cd96f2fe7568654a8078d

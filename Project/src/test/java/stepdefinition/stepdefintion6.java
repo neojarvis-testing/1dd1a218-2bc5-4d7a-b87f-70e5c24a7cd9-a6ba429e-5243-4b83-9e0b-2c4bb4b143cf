@@ -128,4 +128,8 @@ public class stepdefintion6 {
         ReporterUtil.attachToReport("store_directory", Hooks.test,"Verified Store Directory", Main.driver);
     }
     
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 4ef1a98cbb1ee767528cd96f2fe7568654a8078d

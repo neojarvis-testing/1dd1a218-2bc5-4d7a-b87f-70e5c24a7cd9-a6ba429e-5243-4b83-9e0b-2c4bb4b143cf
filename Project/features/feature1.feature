@@ -8,4 +8,8 @@ Feature: Footer iteration assertion functionality
     Scenario: PHDTC-06 Verify the footer links by assertion under resources
 
     Given User land on the homepage
+<<<<<<< HEAD
     Then User clicks on the footer link under resouces and assertion 
+=======
+    Then User clicks on the footer link under resouces and assertion 
+>>>>>>> 4ef1a98cbb1ee767528cd96f2fe7568654a8078d

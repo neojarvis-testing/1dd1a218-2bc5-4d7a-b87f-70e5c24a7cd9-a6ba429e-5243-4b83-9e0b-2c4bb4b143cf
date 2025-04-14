@@ -414,4 +414,8 @@ public class InformationActionPage {
         residenceStatus(residence, monthly, yearly, dob, ssn);
     }
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 4ef1a98cbb1ee767528cd96f2fe7568654a8078d
