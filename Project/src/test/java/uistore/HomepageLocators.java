@@ -82,6 +82,7 @@ public class HomepageLocators {
     public static By gift=By.xpath("//a[@title='Gift Cards']");
     public static By privacy=By.xpath("//a[@title='Privacy & Security Center']");
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 <<<<<<< HEAD
 
@@ -90,3 +91,6 @@ public class HomepageLocators {
 =======
 }
 >>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad
+=======
+}
+>>>>>>> 1f54fdbeae194607d9a30e4f4896fcabdd5cb136

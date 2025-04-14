@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 1f54fdbeae194607d9a30e4f4896fcabdd5cb136
 
 <project xmlns="http://maven.apache.org/POM/4.0.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
@@ -22,6 +25,7 @@
 
   <dependencies>
   
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad
@@ -49,6 +53,8 @@
 >>>>>>> 4ef1a98cbb1ee767528cd96f2fe7568654a8078d
 =======
 >>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad
+=======
+>>>>>>> 1f54fdbeae194607d9a30e4f4896fcabdd5cb136
     <dependency>
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-simple</artifactId>
@@ -57,6 +63,9 @@
     </dependency>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 1f54fdbeae194607d9a30e4f4896fcabdd5cb136
     
 <dependency>
     <groupId>org.projectlombok</groupId>
@@ -64,6 +73,7 @@
     <version>1.18.24</version> <!-- Adjust to the version you want -->
     <scope>provided</scope>
 </dependency>
+<<<<<<< HEAD
 
     
 =======
@@ -80,12 +90,24 @@
 >>>>>>> 4ef1a98cbb1ee767528cd96f2fe7568654a8078d
 =======
 >>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad
+=======
+<dependency>
+    <groupId>junit</groupId>
+    <artifactId>junit</artifactId>
+    <version>4.13.2</version>
+    <scope>test</scope>
+</dependency>
+
+  
+
+>>>>>>> 1f54fdbeae194607d9a30e4f4896fcabdd5cb136
     <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
     <dependency>
       <groupId>org.seleniumhq.selenium</groupId>
       <artifactId>selenium-java</artifactId>
       <version>4.15.0</version>
     </dependency>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
@@ -105,6 +127,8 @@
 >>>>>>> 4ef1a98cbb1ee767528cd96f2fe7568654a8078d
 =======
 >>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad
+=======
+>>>>>>> 1f54fdbeae194607d9a30e4f4896fcabdd5cb136
     <dependency>
       <groupId>org.apache.poi</groupId>
       <artifactId>poi</artifactId>
@@ -116,6 +140,20 @@
       <version>5.0.0</version>
     </dependency>
     <dependency>
+<<<<<<< HEAD
+=======
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-java</artifactId>
+    <version>7.22.0</version>
+</dependency>
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-junit</artifactId>
+    <version>7.22.0</version>
+    <scope>test</scope>
+</dependency>
+    <dependency>
+>>>>>>> 1f54fdbeae194607d9a30e4f4896fcabdd5cb136
       <groupId>com.aventstack</groupId>
       <artifactId>extentreports</artifactId>
       <version>5.0.9</version>
@@ -125,6 +163,7 @@
     <artifactId>log4j</artifactId>
     <version>1.2.17</version>
 </dependency>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   </dependencies>
@@ -158,6 +197,10 @@
 >>>>>>> 4ef1a98cbb1ee767528cd96f2fe7568654a8078d
 =======
 >>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad
+=======
+  </dependencies>
+
+>>>>>>> 1f54fdbeae194607d9a30e4f4896fcabdd5cb136
   <build>
     <pluginManagement>      <!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
@@ -205,7 +248,10 @@
   </build>
 </project>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
  
  
 >>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad
+=======
+>>>>>>> 1f54fdbeae194607d9a30e4f4896fcabdd5cb136

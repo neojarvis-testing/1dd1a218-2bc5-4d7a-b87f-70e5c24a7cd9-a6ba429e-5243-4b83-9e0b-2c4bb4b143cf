@@ -39,12 +39,48 @@ public class Screenshot {
     }
 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 }
-=======
+package utils;
+
+import java.io.File;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.io.FileHandler;
+
+public class Screenshot {
+	
+	/**
+     * Description: This mehtod is to take a screenshot and store it in a screenshot folder
+     *  @author 10830767 -Raghul Senthil
+     * @param WebDriver, String
+     * @return NA
+     */
+    public static void screenshot(WebDriver driver,String filename){
+        try {
+            String timestamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());
+            String screenshotName = filename + "_" + timestamp + ".png";
+    
+            TakesScreenshot ts = (TakesScreenshot) driver;
+                File file = ts.getScreenshotAs(OutputType.FILE);
+                File target = new File(System.getProperty("user.dir")+"/screenshots");
+                
+                if(!target.exists()){
+                    target.mkdir();
+                }
+    
+                FileHandler.copy(file, new File(target.toString()+"/"+screenshotName+".png"));
+            
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+    }
+
+
+
 }
->>>>>>> 4ef1a98cbb1ee767528cd96f2fe7568654a8078d
-=======
-}
->>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad
+

@@ -13,7 +13,11 @@ Feature: Homedepot Automation functionality
  
     When the user accesses the Heating and Cooling service
 <<<<<<< HEAD
+<<<<<<< HEAD
     Then the Heating and Cooling service details are properly displayed
 =======
     Then the Heating and Cooling service details are properly displayed
 >>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad
+=======
+    Then the Heating and Cooling service details are properly displayed
+>>>>>>> 1f54fdbeae194607d9a30e4f4896fcabdd5cb136

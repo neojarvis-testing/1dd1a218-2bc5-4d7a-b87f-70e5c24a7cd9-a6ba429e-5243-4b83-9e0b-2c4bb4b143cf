@@ -16,6 +16,7 @@ Feature: Homedepot Automation Functionality
     And   User click on KidworkShop and verify Kids Project
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     Then  User clicks on Register and verify the label Parent/Guardian First name
 =======
     Then  User clicks on Register and verify the label Parent/Guardian First name
@@ -23,3 +24,6 @@ Feature: Homedepot Automation Functionality
 =======
     Then  User clicks on Register and verify the label Parent/Guardian First name
 >>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad
+=======
+    Then  User clicks on Register and verify the label Parent/Guardian First name
+>>>>>>> 1f54fdbeae194607d9a30e4f4896fcabdd5cb136

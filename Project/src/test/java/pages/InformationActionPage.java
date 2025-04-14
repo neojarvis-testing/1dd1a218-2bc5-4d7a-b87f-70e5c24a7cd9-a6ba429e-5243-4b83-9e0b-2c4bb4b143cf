@@ -414,6 +414,7 @@ public class InformationActionPage {
         residenceStatus(residence, monthly, yearly, dob, ssn);
     }
 
+<<<<<<< HEAD
 }package pages;
 
 import java.util.List;
@@ -835,3 +836,6 @@ public class InformationActionPage {
 =======
 }
 >>>>>>> 4ef1a98cbb1ee767528cd96f2fe7568654a8078d
+=======
+}
+>>>>>>> 1f54fdbeae194607d9a30e4f4896fcabdd5cb136

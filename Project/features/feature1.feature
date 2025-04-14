@@ -10,6 +10,7 @@ Feature: Footer iteration assertion functionality
     Given User land on the homepage
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     Then User clicks on the footer link under resouces and assertion 
 =======
     Then User clicks on the footer link under resouces and assertion 
@@ -17,3 +18,6 @@ Feature: Footer iteration assertion functionality
 =======
     Then User clicks on the footer link under resouces and assertion 
 >>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad
+=======
+    Then User clicks on the footer link under resouces and assertion 
+>>>>>>> 1f54fdbeae194607d9a30e4f4896fcabdd5cb136
