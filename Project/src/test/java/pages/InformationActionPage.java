@@ -1,7 +1,16 @@
 package pages;
+<<<<<<< HEAD
 import java.util.List;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
+=======
+
+import java.util.List;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.Select;
+
+>>>>>>> a5378bd7a2712a31093577617c9a29c0a6a21976
 import uistore.HomepageLocators;
 import uistore.InformationPageLocators;
 import utils.LogHelper;
@@ -411,4 +420,8 @@ public class InformationActionPage {
         residenceStatus(residence, monthly, yearly, dob, ssn);
     }
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> a5378bd7a2712a31093577617c9a29c0a6a21976

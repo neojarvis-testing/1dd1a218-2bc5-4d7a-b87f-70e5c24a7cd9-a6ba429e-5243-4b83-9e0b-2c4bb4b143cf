@@ -49,4 +49,8 @@ public class CategoryActionPage {
         clickCategory();
     }
  
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> a5378bd7a2712a31093577617c9a29c0a6a21976

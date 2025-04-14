@@ -1,5 +1,11 @@
 package pages;
+<<<<<<< HEAD
 import java.util.ArrayList;
+=======
+
+import java.util.ArrayList;
+
+>>>>>>> a5378bd7a2712a31093577617c9a29c0a6a21976
 import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
@@ -661,4 +667,8 @@ public class HomepageActionPage {
         clickAndVerify();
     }
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> a5378bd7a2712a31093577617c9a29c0a6a21976

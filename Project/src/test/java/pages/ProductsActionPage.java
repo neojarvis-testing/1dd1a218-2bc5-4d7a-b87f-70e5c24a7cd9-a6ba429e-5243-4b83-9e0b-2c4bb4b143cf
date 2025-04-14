@@ -1,5 +1,11 @@
 package pages;
+<<<<<<< HEAD
 import org.junit.Assert;
+=======
+
+import org.junit.Assert;
+
+>>>>>>> a5378bd7a2712a31093577617c9a29c0a6a21976
 import uistore.CategoryPageLocators;
 import uistore.ProductsPageLocators;
 import utils.LogHelper;
@@ -245,4 +251,8 @@ public class ProductsActionPage {
         }
     }
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> a5378bd7a2712a31093577617c9a29c0a6a21976

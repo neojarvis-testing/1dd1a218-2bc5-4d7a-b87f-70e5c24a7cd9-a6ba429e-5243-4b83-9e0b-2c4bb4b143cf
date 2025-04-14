@@ -16,4 +16,4 @@ Feature: Homedepot Automation Functionality
  
     Given User Scrolls to footer
  
-    Then hen User Clicks every Link and Verify Information
+    Then hen User Clicks every Link and Verify Information    

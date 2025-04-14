@@ -1,4 +1,8 @@
 package stepdefinition;
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> a5378bd7a2712a31093577617c9a29c0a6a21976
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -63,4 +67,8 @@ homepage.Tc7();
  
 }
  
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> a5378bd7a2712a31093577617c9a29c0a6a21976

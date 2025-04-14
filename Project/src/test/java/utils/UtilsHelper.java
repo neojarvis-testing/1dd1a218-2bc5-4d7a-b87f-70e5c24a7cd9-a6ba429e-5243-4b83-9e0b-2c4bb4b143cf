@@ -246,4 +246,8 @@ public class UtilsHelper {
     public List<WebElement> getElements(By locator){
         return driver.findElements(locator);
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> a5378bd7a2712a31093577617c9a29c0a6a21976

@@ -1,4 +1,8 @@
 package stepdefinition;
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> a5378bd7a2712a31093577617c9a29c0a6a21976
 import io.cucumber.java.en.*;
 import pages.HomepageActionPage;
 import pages.InformationActionPage;
@@ -106,4 +110,8 @@ public class stepdefinition4 {
        
         System.out.println("Heating and Cooling service details validated.");
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> a5378bd7a2712a31093577617c9a29c0a6a21976

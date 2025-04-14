@@ -1,0 +1,15 @@
+pages/InformationActionPage.class
+uistore/HomepageLocators.class
+utils/EventHandler.class
+uistore/InformationPageLocators.class
+utils/UtilsHelper.class
+pages/ProductsActionPage.class
+utils/Screenshot.class
+uistore/ProductsPageLocators.class
+utils/Main.class
+pages/CategoryActionPage.class
+uistore/CategoryPageLocators.class
+utils/LogHelper.class
+utils/ReadingExcel.class
+pages/HomepageActionPage.class
+utils/ReporterUtil.class
