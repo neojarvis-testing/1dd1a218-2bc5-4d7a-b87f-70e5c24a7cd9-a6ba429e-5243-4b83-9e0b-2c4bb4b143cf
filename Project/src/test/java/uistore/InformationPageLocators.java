@@ -71,4 +71,3 @@ public class InformationPageLocators {
     public static By continueClick4 = By.id("contToSubmit");
 
 }
-
