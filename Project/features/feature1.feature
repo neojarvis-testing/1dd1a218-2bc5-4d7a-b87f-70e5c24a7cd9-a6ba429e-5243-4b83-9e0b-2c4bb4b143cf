@@ -9,7 +9,11 @@ Feature: Footer iteration assertion functionality
 
     Given User land on the homepage
 <<<<<<< HEAD
+<<<<<<< HEAD
     Then User clicks on the footer link under resouces and assertion 
 =======
     Then User clicks on the footer link under resouces and assertion 
 >>>>>>> 4ef1a98cbb1ee767528cd96f2fe7568654a8078d
+=======
+    Then User clicks on the footer link under resouces and assertion 
+>>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad

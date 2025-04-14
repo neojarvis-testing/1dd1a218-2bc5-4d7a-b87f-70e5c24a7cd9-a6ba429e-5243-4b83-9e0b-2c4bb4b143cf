@@ -18,4 +18,8 @@ Feature: Homedepot Automation Functionality
    
    Scenario: PHDTC-10 Click and Verify Links
    When the user clicks on various links and navigates back to the homepage
+<<<<<<< HEAD
    Then all links should be verified successfully
+=======
+   Then all links should be verified successfully
+>>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad

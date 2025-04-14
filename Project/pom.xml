@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <project xmlns="http://maven.apache.org/POM/4.0.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
@@ -22,6 +23,8 @@
   <dependencies>
   
 =======
+=======
+>>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad
  
 <project xmlns="http://maven.apache.org/POM/4.0.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
@@ -42,13 +45,17 @@
   </properties>
  
  <dependencies>
+<<<<<<< HEAD
 >>>>>>> 4ef1a98cbb1ee767528cd96f2fe7568654a8078d
+=======
+>>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad
     <dependency>
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-simple</artifactId>
       <version>2.0.7</version>
       <scope>test</scope>
     </dependency>
+<<<<<<< HEAD
 <<<<<<< HEAD
     
 <dependency>
@@ -60,6 +67,8 @@
 
     
 =======
+=======
+>>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad
     <!-- https://mvnrepository.com/artifact/org.testng/testng -->
     <!-- <dependency>
       <groupId>org.testng</groupId>
@@ -67,13 +76,17 @@
       <version>7.8.0</version>
       <scope>test</scope>
     </dependency> -->
+<<<<<<< HEAD
 >>>>>>> 4ef1a98cbb1ee767528cd96f2fe7568654a8078d
+=======
+>>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad
     <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
     <dependency>
       <groupId>org.seleniumhq.selenium</groupId>
       <artifactId>selenium-java</artifactId>
       <version>4.15.0</version>
     </dependency>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
     <dependency>
@@ -90,6 +103,8 @@
     </dependency>
 =======
 >>>>>>> 4ef1a98cbb1ee767528cd96f2fe7568654a8078d
+=======
+>>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad
     <dependency>
       <groupId>org.apache.poi</groupId>
       <artifactId>poi</artifactId>
@@ -111,9 +126,12 @@
     <version>1.2.17</version>
 </dependency>
 <<<<<<< HEAD
+<<<<<<< HEAD
   </dependencies>
 
 =======
+=======
+>>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad
 <dependency>
   <groupId>org.projectlombok</groupId>
   <artifactId>lombok</artifactId>
@@ -136,7 +154,10 @@
  
   </dependencies>
  
+<<<<<<< HEAD
 >>>>>>> 4ef1a98cbb1ee767528cd96f2fe7568654a8078d
+=======
+>>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad
   <build>
     <pluginManagement>      <!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
@@ -183,3 +204,8 @@
     </pluginManagement>
   </build>
 </project>
+<<<<<<< HEAD
+=======
+ 
+ 
+>>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad

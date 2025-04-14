@@ -1,8 +1,12 @@
 package stepdefinition;
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> 4ef1a98cbb1ee767528cd96f2fe7568654a8078d
+=======
+
+>>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import pages.HomepageActionPage;
@@ -55,7 +59,11 @@ public class stepdefinition1 {
     }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 =======
 }
 >>>>>>> 4ef1a98cbb1ee767528cd96f2fe7568654a8078d
+=======
+}
+>>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad

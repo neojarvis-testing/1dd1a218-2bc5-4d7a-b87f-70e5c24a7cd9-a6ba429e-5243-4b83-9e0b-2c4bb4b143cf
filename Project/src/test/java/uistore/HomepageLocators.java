@@ -81,8 +81,12 @@ public class HomepageLocators {
     public static By homepageshopcategoryclick=By.xpath("//div[@class='sui-flex-auto sui-text-xs sui-leading-normal sui-font-bold'][contains(text(),'Building Materials')]");
     public static By gift=By.xpath("//a[@title='Gift Cards']");
     public static By privacy=By.xpath("//a[@title='Privacy & Security Center']");
+<<<<<<< HEAD
 }
 <<<<<<< HEAD
 
 =======
 >>>>>>> 4ef1a98cbb1ee767528cd96f2fe7568654a8078d
+=======
+}
+>>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad

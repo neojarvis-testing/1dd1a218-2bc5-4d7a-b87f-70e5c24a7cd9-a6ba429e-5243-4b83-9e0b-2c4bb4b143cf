@@ -12,4 +12,8 @@ Feature: Homedepot Automation functionality
     Then the Windows and Doors service heading and description are shown accurately
  
     When the user accesses the Heating and Cooling service
+<<<<<<< HEAD
     Then the Heating and Cooling service details are properly displayed
+=======
+    Then the Heating and Cooling service details are properly displayed
+>>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad

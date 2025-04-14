@@ -15,7 +15,11 @@ Feature: Homedepot Automation Functionality
     When  User click on Freeworkshop and verify Free Workshops label
     And   User click on KidworkShop and verify Kids Project
 <<<<<<< HEAD
+<<<<<<< HEAD
     Then  User clicks on Register and verify the label Parent/Guardian First name
 =======
     Then  User clicks on Register and verify the label Parent/Guardian First name
 >>>>>>> 4ef1a98cbb1ee767528cd96f2fe7568654a8078d
+=======
+    Then  User clicks on Register and verify the label Parent/Guardian First name
+>>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad

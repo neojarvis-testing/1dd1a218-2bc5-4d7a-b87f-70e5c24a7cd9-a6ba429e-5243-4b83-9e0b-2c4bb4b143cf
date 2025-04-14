@@ -20,4 +20,8 @@ public class ProductsPageLocators {
      public static By productpageclickonshopalldrywall=By.xpath("//a[contains(text(),'Shop All Drywall')]");
  
      public static By productpageclickonallfilters=By.xpath("//div[@class='sui-pl-2 sui-text-nowrap']//p[contains(text(),'All Filters')]");
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad

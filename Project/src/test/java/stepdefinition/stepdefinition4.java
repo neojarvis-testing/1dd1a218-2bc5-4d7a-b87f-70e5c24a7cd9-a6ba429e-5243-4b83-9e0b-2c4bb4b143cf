@@ -107,4 +107,8 @@ public class stepdefinition4 {
        
         System.out.println("Heating and Cooling service details validated.");
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad

@@ -247,6 +247,7 @@ public class UtilsHelper {
         return driver.findElements(locator);
     }
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 
 
@@ -257,3 +258,6 @@ public class UtilsHelper {
 }
 >>>>>>> a5378bd7a2712a31093577617c9a29c0a6a21976
 >>>>>>> 4ef1a98cbb1ee767528cd96f2fe7568654a8078d
+=======
+}
+>>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad

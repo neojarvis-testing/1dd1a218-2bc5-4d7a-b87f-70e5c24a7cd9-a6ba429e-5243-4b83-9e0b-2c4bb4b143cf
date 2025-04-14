@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /home/coder/project/workspace/Project/src/test/java/stepdefinition/stepdefinition4.java
 /home/coder/project/workspace/Project/src/test/java/utils/EventHandler.java
 /home/coder/project/workspace/Project/src/test/java/uistore/ProductsPageLocators.java
@@ -17,6 +18,27 @@
 /home/coder/project/workspace/Project/src/test/java/runner/TestRun.java
 /home/coder/project/workspace/Project/src/test/java/pages/ProductsActionPage.java
 /home/coder/project/workspace/Project/src/test/java/pages/InformationActionPage.java
+=======
+/home/coder/project/workspace/Project/src/test/java/utils/EventHandler.java
+/home/coder/project/workspace/Project/src/test/java/stepdefinition/stepdefinition4.java
+/home/coder/project/workspace/Project/src/test/java/uistore/ProductsPageLocators.java
+/home/coder/project/workspace/Project/src/test/java/pages/CategoryActionPage.java
+/home/coder/project/workspace/Project/src/test/java/utils/Main.java
+/home/coder/project/workspace/Project/src/test/java/pages/HomepageActionPage.java
+/home/coder/project/workspace/Project/src/test/java/utils/UtilsHelper.java
+/home/coder/project/workspace/Project/src/test/java/utils/Screenshot.java
+/home/coder/project/workspace/Project/src/test/java/utils/LogHelper.java
+/home/coder/project/workspace/Project/src/test/java/stepdefinition/stepdefinition3.java
+/home/coder/project/workspace/Project/src/test/java/uistore/InformationPageLocators.java
+/home/coder/project/workspace/Project/src/test/java/utils/ReadingExcel.java
+/home/coder/project/workspace/Project/src/test/java/stepdefinition/stepdefintion6.java
+/home/coder/project/workspace/Project/src/test/java/stepdefinition/Hooks.java
+/home/coder/project/workspace/Project/src/test/java/utils/ReporterUtil.java
+/home/coder/project/workspace/Project/src/test/java/stepdefinition/stepdefinition5.java
+/home/coder/project/workspace/Project/src/test/java/runner/TestRun.java
+/home/coder/project/workspace/Project/src/test/java/pages/InformationActionPage.java
+/home/coder/project/workspace/Project/src/test/java/pages/ProductsActionPage.java
+>>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad
 /home/coder/project/workspace/Project/src/test/java/uistore/CategoryPageLocators.java
 /home/coder/project/workspace/Project/src/test/java/stepdefinition/stepdefinition2.java
 /home/coder/project/workspace/Project/src/test/java/uistore/HomepageLocators.java

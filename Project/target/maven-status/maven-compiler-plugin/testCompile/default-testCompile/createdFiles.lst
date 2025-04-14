@@ -2,6 +2,7 @@ pages/InformationActionPage.class
 uistore/HomepageLocators.class
 utils/EventHandler.class
 uistore/InformationPageLocators.class
+<<<<<<< HEAD
 utils/UtilsHelper.class
 pages/ProductsActionPage.class
 utils/Screenshot.class
@@ -12,4 +13,16 @@ uistore/CategoryPageLocators.class
 utils/LogHelper.class
 utils/ReadingExcel.class
 pages/HomepageActionPage.class
+=======
+pages/ProductsActionPage.class
+utils/UtilsHelper.class
+utils/Screenshot.class
+uistore/ProductsPageLocators.class
+pages/CategoryActionPage.class
+utils/Main.class
+uistore/CategoryPageLocators.class
+stepdefinition/Hooks.class
+utils/LogHelper.class
+utils/ReadingExcel.class
+>>>>>>> 9f219f829f86dbf13c3e5531cb180372efe454ad
 utils/ReporterUtil.class
