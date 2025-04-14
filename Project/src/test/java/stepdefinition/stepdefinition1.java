@@ -1,8 +1,4 @@
 package stepdefinition;
-<<<<<<< HEAD
-=======
-
->>>>>>> a5378bd7a2712a31093577617c9a29c0a6a21976
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import pages.HomepageActionPage;
@@ -54,8 +50,4 @@ public class stepdefinition1 {
         act.footerTestcase02();
     }
 
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> a5378bd7a2712a31093577617c9a29c0a6a21976

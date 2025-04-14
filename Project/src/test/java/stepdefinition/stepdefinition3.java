@@ -1,8 +1,4 @@
 package stepdefinition;
-<<<<<<< HEAD
-=======
-
->>>>>>> a5378bd7a2712a31093577617c9a29c0a6a21976
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -86,8 +82,4 @@ public class stepdefinition3 {
         action1.registration();
     }
 
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> a5378bd7a2712a31093577617c9a29c0a6a21976
